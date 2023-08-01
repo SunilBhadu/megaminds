@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "SamplingTime": "2021-04-21T11:00:05.5051255+05:30",
+      "Properties": [
+        {
+          "Value": "Road Construction 1",
+          "Label": "Project Name"
+        },
+        {
+          "Value": null,
+          "Label": "Construction Count"
+        },
+        {
+          "Value": false,
+          "Label": "Is Construction Completed"
+        },
+        {
+          "Value": 5.5,
+          "Label": "Length of the road"
+        }
+      ]
+    },
+    {
+      "SamplingTime": "2021-04-22T11:00:05.5081232+05:30",
+      "Properties": [
+        {
+          "Value": "Road Construction 2",
+          "Label": "Project Name"
+        },
+        {
+          "Value": true,
+          "Label": "Is Construction Completed"
+        },
+        {
+          "Value": 3.2,
+          "Label": "Length of the road"
+        },
+        {
+          "Label": "Construction Count",
+          "Value": 20
+        }
+      ]
+    },
+    {
+      "SamplingTime": "2021-04-23T11:00:05.5081232+05:30",
+      "Properties": [
+        {
+          "Value": "Road Construction 3",
+          "Label": "Project Name"
+        },
+        {
+          "Value": true,
+          "Label": "Is Construction Completed"
+        },
+        {
+          "Label": "Length of the road",
+          "Value": 3.1
+        }
+      ]
+    }
+  ]
+}
